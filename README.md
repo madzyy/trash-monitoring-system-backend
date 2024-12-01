@@ -21,7 +21,7 @@ You can get there by searching environment variables and go to environment varia
 
 After that open a new terminal and run 
 ```shell
-source dump.sql;
+source dump.sql
 ```
 in the project directory and this will create the database for you. 
 
